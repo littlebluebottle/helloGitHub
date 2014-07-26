@@ -5,3 +5,11 @@ F:\Myprogram\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Properties.Resources.r
 F:\Myprogram\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.csproj.GenerateResource.Cache
 F:\Myprogram\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.exe
 F:\Myprogram\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.pdb
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.exe
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.pdb
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\bin\Debug\helloGitHub.exe
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\bin\Debug\helloGitHub.pdb
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Form1.resources
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Form2.resources
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Properties.Resources.resources
+C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.csproj.GenerateResource.Cache
