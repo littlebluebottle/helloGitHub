@@ -13,3 +13,4 @@ C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Form1.
 C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Form2.resources
 C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Properties.Resources.resources
 C:\Users\lishimeng\Documents\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.csproj.GenerateResource.Cache
+F:\Myprogram\GitHub\helloGitHub\obj\x86\Debug\helloGitHub.Form2.resources
