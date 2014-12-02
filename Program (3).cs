@@ -7,7 +7,7 @@ namespace 后方交会
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             #region 获取原始数据
             //输入比例尺分母
